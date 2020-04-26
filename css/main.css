@@ -143,3 +143,12 @@ h3{
     color: blue;
     line-height: 40px;
 }
+
+#footer{
+    clear: both;
+    height: auto;
+    width: 100%;
+    background-color: #ff751a;
+    text-align: center;
+    line-height: 25px;
+}
