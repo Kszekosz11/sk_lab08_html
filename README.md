@@ -1,3 +1,3 @@
 # sk_lab08_html
 
-network computers labolatory 08
+computer networks labolatory 08
