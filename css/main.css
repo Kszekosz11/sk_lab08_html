@@ -1,5 +1,5 @@
 body{
-    background-color: #ff944d;
+    background-color: #ffb685;
     width: 100%;
     height: 100%;
 }
@@ -22,7 +22,7 @@ body{
     float: left;
     height: 150px;
     width: 100%;
-    background-color: #ff751a;
+    background-color: #ff9b58;
 }
 
 h1#title{
@@ -53,7 +53,7 @@ h1#title{
     float: left;
     width: 100%;
     height: 50px;
-    background-color: #ff751a;
+    background-color: #ff9b58;
 }
 
 #menuList li{    
@@ -148,7 +148,7 @@ h3{
     clear: both;
     height: auto;
     width: 100%;
-    background-color: #ff751a;
+    background-color: #ff9b58;
     text-align: center;
     line-height: 25px;
 }
